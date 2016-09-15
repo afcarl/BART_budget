@@ -10,3 +10,10 @@ All you need is jupyter and pandas to get started.
 Excel Users:
 Start with the summary file in the data foldre as the raw data is too large for a spreadsheet.
 
+
+## FY2015 Stats
+* Senior Citizen revenues are 20x that of from students.
+* Fiber optic revenue: ~$4 million 
+* Parking revenue: $29 million
+* Parking costs: $1 million
+* more to come
