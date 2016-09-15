@@ -2,6 +2,7 @@ This is a project to host the open data and analysis about the Bay Area Regional
 
 ### Project Status 
 Waiting to hear from from BART to clarify the following:
+
 1. how this data corelates to the audited financials. 
 2. meaning of the account descriptions
 3. meaning of the source abbreviation
