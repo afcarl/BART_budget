@@ -17,3 +17,6 @@ Start with the summary file in the data foldre as the raw data is too large for 
 * Parking revenue: $29 million
 * Parking costs: $1 million
 * more to come
+
+
+[Parking Revenue](charts/parking_revenues.png)
