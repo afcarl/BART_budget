@@ -1,8 +1,13 @@
-This is a project to host the open data and analysis about the Bay Area Regional Transit system budget. 
+This is a project to host the open data and analysis about the Bay Area Regional Transit system budget. The goal is to demonstrate how useful it would be to publish this information monthly as part of an open data portal. 
 
-Data Source: FOIA request delievered by BART Sept 15th, 2016
+''' status: '''' waiting to hear from from BART to clarify ...
+1. how this data corelates to the audited financials. 
+2. meaning of the account descriptions
 
-## Get Started
+### Data
+The data was obtained by sending a FOIA request for the line item data for every transaction bart made in Fiscal Year 2015. BART delievered their response on Sept 15th, 2016, in 12 excel files containing the data. 
+
+### Get Started
 
 Python Users:
 All you need is jupyter and pandas to get started. 
@@ -11,7 +16,7 @@ Excel Users:
 Start with the summary file in the data foldre as the raw data is too large for a spreadsheet.
 
 
-## FY2015 Stats
+### FY2015 Stats
 * Senior Citizen revenues are 20x that of from students.
 * Fiber optic revenue: ~$4 million 
 * Parking revenue: $29 million
