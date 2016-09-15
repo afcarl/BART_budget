@@ -19,4 +19,4 @@ Start with the summary file in the data foldre as the raw data is too large for 
 * more to come
 
 
-[Parking Revenue](charts/parking_revenues.png)
+![Parking Revenue](charts/parking_revenues.png)
