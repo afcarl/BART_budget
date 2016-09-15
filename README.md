@@ -1,6 +1,6 @@
 This is a project to host the open data and analysis about the Bay Area Regional Transit system budget. The goal is to demonstrate how useful it would be to publish this information monthly as part of an open data portal. 
 
-''' status: '''' waiting to hear from from BART to clarify ...
+**status**: waiting to hear from from BART to clarify ...
 1. how this data corelates to the audited financials. 
 2. meaning of the account descriptions
 
